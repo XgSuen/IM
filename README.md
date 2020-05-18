@@ -13,4 +13,8 @@ Influence Maximization Learning Notes
 ## 9.Influence Maximization at Community Level
 ## 10.Efficient Algorithms for Adaptive  Influence Maximization
 ## 11.Influence Maximization with Spontaneous User Adoption
-## 12.Adaptive Seeding in Social Networks（预更新）
+## 12.Adaptive Influence Maximization in Dynamic Social Networks
+## 13.Adaptive Seeding in Social Networks
+## 14.Efficient Approximation Algorithms for Adaptive Seed Minimization
+## 15.Finding Seeds and Relevant Tags Jointly For Targeted Influence Maximization in Social Networks
+## 16.Online Processing Algorithms for Influence Maximization
